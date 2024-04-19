@@ -28,7 +28,8 @@ _____
 ### Видео игры:
 
 + Гиф версия
-![gif](https://github.com/zhuykovochka/AirHockey/assets/110740413/001704fd-e9ce-4de4-8c0f-33cdfc29156a, "Air Hockey demonstration")
+
+![gif](https://github.com/zhuykovochka/AirHockey/assets/110740413/8fbf4ce1-586f-40b5-8a60-a731b4e5aaaf, "Air Hockey demonstration")
 
 + Видео версия (нажмите на картинку :arrow_heading_down:)
 
